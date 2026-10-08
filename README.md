@@ -1,6 +1,6 @@
 # Countermeasure-Aware Expert Routing for AES Side-Channel Analysis
 
-Code accompanying the paper **Countermeasure-Aware Expert Routing for AES Side-Channel Analysis** by Zhiwei He.
+Code accompanying the paper **Countermeasure-Aware Expert Routing for AES Side-Channel Analysis** 
 
 ## Installation
 
